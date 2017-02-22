@@ -1,5 +1,5 @@
 const employer = {
-    employerName: 'A',
-    address: 'Ad1'
+    employerName: 'Employer',
+    address: 'Address Line 1'
 };
 export default employer;
