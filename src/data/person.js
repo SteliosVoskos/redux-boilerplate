@@ -1,6 +1,6 @@
 const person = {
-    name: 'A',
-    address: 'Ad1',
+    name: 'Name',
+    address: 'Address line 1',
     counter: 0
 };
 
