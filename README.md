@@ -1,5 +1,5 @@
 Redux boilerplate is a minimum working environment for redux integrated in React.
-<p>Clone the project, or download the zip. Do npm install and then tyoe npm start.</p>
+<p>Clone the project, or download the zip. Do npm install and then type npm start.</p>
 <p>The app listens to localhost:3000</p>
 <p>Structure:
     <ul>
